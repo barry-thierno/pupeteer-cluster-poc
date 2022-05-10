@@ -1,0 +1,30 @@
+
+### Node template
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+
+# generated Pdfs
+*.pdf
+
+
+# Dist folder
+dist/
+
+#test reports
+coverage/
+test-report/
+
+# Typescript :
+*.tsbuildinfo
